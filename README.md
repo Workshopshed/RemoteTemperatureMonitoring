@@ -1,6 +1,8 @@
 # Remote Temperature Monitoring with Pi Pico and MING
 A remote monitoring solution for temperatures.
 
+![Circuit Diagram](https://raw.githubusercontent.com/Workshopshed/RemoteTemperatureMonitoring/main/CircuitDiagram.png)
+
 ## Examples
 A number of examples for the Pi Pico were produced as a side effect of this project
 https://github.com/Workshopshed/PiPico
