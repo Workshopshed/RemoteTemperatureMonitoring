@@ -1,5 +1,5 @@
 # Remote Temperature Monitoring with Pi Pico and MING
-A remote monitoring solution for temperatures.
+A remote monitoring solution for temperatures using a Pi Pico and a central dashboard consisting of a Rasberry Pi and external hard disk.
 
 ![Circuit Diagram](https://raw.githubusercontent.com/Workshopshed/RemoteTemperatureMonitoring/main/CircuitDiagram.png)
 
